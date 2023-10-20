@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/e-commerce-freshCart/static/css/main.a800fd43.css",
+    "main.js": "/e-commerce-freshCart/static/js/main.cbbf3b23.js",
+    "static/media/bg.svg": "/e-commerce-freshCart/static/media/bg.ed706aff39a009de4e80.svg",
+    "static/media/notFoundProduct.png": "/e-commerce-freshCart/static/media/notFoundProduct.586b20ff4a41075a2c4e.png",
+    "static/media/cartImg.png": "/e-commerce-freshCart/static/media/cartImg.014a6c1ff730ca3c79e2.png",
+    "static/media/logo.svg": "/e-commerce-freshCart/static/media/logo.53f7a424c3aedc30a0fb46dc2278137c.svg",
+    "index.html": "/e-commerce-freshCart/index.html",
+    "main.a800fd43.css.map": "/e-commerce-freshCart/static/css/main.a800fd43.css.map",
+    "main.cbbf3b23.js.map": "/e-commerce-freshCart/static/js/main.cbbf3b23.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a800fd43.css",
+    "static/js/main.cbbf3b23.js"
+  ]
+}
