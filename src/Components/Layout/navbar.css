@@ -1,0 +1,30 @@
+#checkbox:checked+.toggle #bar2 {
+    transform: rotate(135deg);
+    margin-left: 0;
+    transform-origin: center;
+}
+
+#checkbox:checked+.toggle #bar1 {
+    transform: rotate(45deg);
+    transform-origin: left center;
+}
+
+#checkbox:checked+.toggle #bar3 {
+    transform: rotate(-45deg);
+    transform-origin: left center;
+}
+
+.fixedHeader {
+    animation: .5s fixed;
+    position: fixed;
+}
+
+@keyframes fixed {
+    0% {
+        translate: 0 -100%;
+    }
+
+    100% {
+        translate: 0 0;
+    }
+}
